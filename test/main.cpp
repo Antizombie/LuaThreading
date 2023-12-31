@@ -1,4 +1,4 @@
-#include <GarrysMod/Lua/Interface.h>
+#include <garrysmod_common/include/GarrysMod/Lua/Interface.h>
 #include <lua_threading.hpp>
 
 // Example usage

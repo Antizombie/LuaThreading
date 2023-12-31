@@ -1,5 +1,5 @@
 #include "lua_threading.hpp"
-#include <GarrysMod/Lua/Interface.h>
+#include <garrysmod_common/include/GarrysMod/Lua/Interface.h>
 
 #include <queue>
 
