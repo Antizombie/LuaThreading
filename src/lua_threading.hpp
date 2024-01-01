@@ -3,7 +3,7 @@
 
 #pragma once
 
-#include <garrysmod_common/include/GarrysMod/Lua/LuaBase.h>
+#include <GarrysMod/Lua/LuaBase.h>
 #include <mutex>
 #include <condition_variable>
 #include <memory>
